@@ -1,14 +1,15 @@
 {
   "main.css": "/list-manipulator/static/css/main.85b4c779.chunk.css",
-  "main.js": "/list-manipulator/static/js/main.5e6f771d.chunk.js",
-  "main.js.map": "/list-manipulator/static/js/main.5e6f771d.chunk.js.map",
+  "main.js": "/list-manipulator/static/js/main.73a0b235.chunk.js",
+  "main.js.map": "/list-manipulator/static/js/main.73a0b235.chunk.js.map",
   "runtime~main.js": "/list-manipulator/static/js/runtime~main.188f325f.js",
   "runtime~main.js.map": "/list-manipulator/static/js/runtime~main.188f325f.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/list-manipulator/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/list-manipulator/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/css/2.0dd642b0.chunk.css": "/list-manipulator/static/css/2.0dd642b0.chunk.css",
+  "static/js/2.7c6eb672.chunk.js": "/list-manipulator/static/js/2.7c6eb672.chunk.js",
+  "static/js/2.7c6eb672.chunk.js.map": "/list-manipulator/static/js/2.7c6eb672.chunk.js.map",
   "index.html": "/list-manipulator/index.html",
-  "precache-manifest.4ecb49ffc03abeeb0d57c974c72c1b6d.js": "/list-manipulator/precache-manifest.4ecb49ffc03abeeb0d57c974c72c1b6d.js",
+  "precache-manifest.36f32ede59218848f7be833912a81e0c.js": "/list-manipulator/precache-manifest.36f32ede59218848f7be833912a81e0c.js",
   "service-worker.js": "/list-manipulator/service-worker.js",
-  "static/css/main.85b4c779.chunk.css.map": "/list-manipulator/static/css/main.85b4c779.chunk.css.map",
-  "static/media/logo.svg": "/list-manipulator/static/media/logo.5d5d9eef.svg"
+  "static/css/2.0dd642b0.chunk.css.map": "/list-manipulator/static/css/2.0dd642b0.chunk.css.map",
+  "static/css/main.85b4c779.chunk.css.map": "/list-manipulator/static/css/main.85b4c779.chunk.css.map"
 }
